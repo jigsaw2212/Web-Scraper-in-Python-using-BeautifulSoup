@@ -1,0 +1,11 @@
+PyCon US 2014
+    
+  
+https://us.pycon.org/2014/
+
+PyCon is the largest annual gathering for the community using and developing the open-source Python programming language. It is produced and underwritten by the Python Software Foundation, the 501(c)(3) nonprofit organization dedicated to advancing and promoting Python. Through PyCon, the PSF advances its mission of growing the international community of Python programmers.Because PyCon is backed by the non-profit PSF, we keep registration costs much lower than comparable technology conferences so that PyCon remains accessible to the widest group possible. The PSF also pays for the ongoing development of the software that runs PyCon and makes it available under a liberal open source license.PyCon is a diverse conference dedicated to providing an enjoyable experience to everyone. Help us do this by following our code of conduct.
+
+April 9, 2014
+
+140
+
