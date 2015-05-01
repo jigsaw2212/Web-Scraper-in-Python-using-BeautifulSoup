@@ -1,0 +1,20 @@
+2D/3D graphics with Python on mobile platforms                          NikoSkrypnik                    http://www.youtube.com/watch?v=Y6pLr11yf-4                                       April 13, 2014
+            
+Advanced techniques for Web functional testing                          JulienPhalip                    http://www.youtube.com/watch?v=St9cL47_1GI                                       April 13, 2014
+            
+Analyzing Rap Lyrics with Python                                        JulieLavoie                     http://www.youtube.com/watch?v=FQuIqtx1Z24                                       April 13, 2014
+            
+A Scenic Drive through the Django Request-Response Cycle                DanLanger                       http://www.youtube.com/watch?v=q0YqAbI7rw4                                       April 13, 2014
+            
+Building the App                                                        MikeBayer                       http://www.youtube.com/watch?v=5SSC6nU314c                                       April 13, 2014
+            
+Cheap Helicopters In My Living Room                                     NedJacksonLovely                http://www.youtube.com/watch?v=jJ1vjr1dDqw                                       April 13, 2014
+            
+Closing address - PyCon 2014 (2014/04/13)                               Unknown                         http://www.youtube.com/watch?v=uaTNyOBPcPs                                       April 13, 2014
+            
+Data intensive biology in the cloud: instrumenting ALL the things       C.TitusBrown                    http://www.youtube.com/watch?v=RCRbfKK57X8                                       Oct. 16, 2014
+            
+Deliver Your Software In An Envelope                                    AugieFacklerNathanielManista    http://www.youtube.com/watch?v=mTj297sGzxw                                       April 13, 2014
+            
+Designing Django's Migrations                                           AndrewGodwin                    http://www.youtube.com/watch?v=a-_GAHfpk1Y                                       April 13, 2014
+            

@@ -1,0 +1,20 @@
+There are 193 United Nations (UN) member states, and each of them is a member of the United Nations General Assembly.[2]
+In addition to the member states, the UN also invites non-member states (currently two: the Holy See and Palestine), intergovernmental organizations, and other international organizations and entities whose statehood or sovereignty are not precisely defined, to become observers at the General Assembly, allowing them to participate and speak, but not vote, in General Assembly meetings. It is the world's largest intergovernmental organization, ahead of the Organisation of Islamic Cooperation.[5]
+
+Country          Admission_date 
+
+Austria          1 November 1945
+Azerbaijan       14 December 1955
+Bahamas          2 March 1992   
+Bahrain          18 September 1973
+Bangladesh       21 September 1971
+Barbados         17 September 1974
+Belarus          9 December 1966
+Belgium          24 October 1945
+Belize           27 December 1945
+Benin            25 September 1981
+
+
+This page was last modified on 18 April 2015, at 20:29.
+
+Now let us find some basic information about these countries from their Wikipedia page, using a Python script
